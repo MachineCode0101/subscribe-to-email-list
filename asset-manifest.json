@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/subscribe-to-email-list/static/css/main.aa897be9.css",
+    "main.js": "/subscribe-to-email-list/static/js/main.5573979a.js",
+    "index.html": "/subscribe-to-email-list/index.html",
+    "main.aa897be9.css.map": "/subscribe-to-email-list/static/css/main.aa897be9.css.map",
+    "main.5573979a.js.map": "/subscribe-to-email-list/static/js/main.5573979a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa897be9.css",
+    "static/js/main.5573979a.js"
+  ]
+}
